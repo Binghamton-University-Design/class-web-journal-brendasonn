@@ -1,0 +1,185 @@
+/* G R I D */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  position: relative;
+  /*grid-gap: 1em;*/
+}
+
+.grid div {
+  /*background-color:rgba(0,0,0,0.1);*/
+}
+
+.height-2 {
+	grid-row: span 2;
+}
+
+.height-3 {
+	grid-row: span 3;
+}
+
+.height-8 {
+  grid-row: span 8;
+}
+
+@media (max-width: 699px) {
+  .order-1 {
+		order: 1;
+	}
+
+  .order-2 {
+	 order: 2;
+	}
+
+  .order-3 {
+   order: 3;
+  }
+
+  .order-4 {
+   order: 4;
+  }
+
+  .order-5 {
+   order: 5;
+  }
+
+  .order-6 {
+   order: 6;
+  }
+
+  .order-7 {
+   order: 7;
+  }
+
+  .order-8 {
+   order: 8;
+  }
+
+}
+
+/* M O B I L E */
+
+.width-1-12-m {
+  grid-column: span 1;
+}
+
+.width-2-12-m {
+  grid-column: span 2;
+}
+
+.width-3-12-m {
+  grid-column: span 3;
+}
+
+.width-4-12-m {
+  grid-column: span 4;
+}
+
+.width-5-12-m {
+  grid-column: span 5;
+}
+
+.width-6-12-m {
+  grid-column: span 6;
+}
+
+.width-7-12-m {
+  grid-column: span 7;
+}
+
+.width-8-12-m {
+  grid-column: span 8;
+}
+
+.width-9-12-m {
+  grid-column: span 9;
+}
+
+.width-10-12-m {
+  grid-column: span 10;
+}
+
+.width-11-12-m {
+  grid-column: span 11;
+}
+
+.width-12-12-m {
+  grid-column: span 12;
+
+}
+
+/* D E S K T O P / L A P T O P */
+@media (min-width: 700px) {
+
+.width-1-12 {
+    grid-column: span 1;
+  }
+
+.width-2-12 {
+    grid-column: span 2;
+  }
+
+.width-3-12 {
+    grid-column: span 3;
+  }
+
+.width-4-12 {
+    grid-column: span 4;
+  }
+
+.width-5-12 {
+    grid-column: span 5;
+  }
+
+.width-6-12 {
+    grid-column: span 6;
+  }
+
+.width-7-12 {
+    grid-column: span 7;
+  }
+
+.width-8-12 {
+    grid-column: span 8;
+  }
+
+.width-9-12 {
+    grid-column: span 9;
+  }
+
+.width-10-12 {
+    grid-column: span 10;
+  }
+
+.width-11-12 {
+    grid-column: span 11;
+  }
+
+.width-12-12 {
+    grid-column: span 12;
+  }
+
+.centered-6 {
+    grid-column: 4 / span 6;
+  }
+
+}
+
+/* for centering vertically */
+
+.flex-content {
+  display: flex;
+  /*align-items: center;*/
+  height: 100%;
+}
+
+.vertically-centered {
+  width: 100%;
+  align-self: center;
+}
+
+.vertically-bottom {
+  width: 100%;
+  align-self: end;
+}
