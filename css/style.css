@@ -18,12 +18,14 @@ body {
     text-align: left;
     margin: 0;
     color: var(--body-color);
-    font-family: 'Helvetica-Neue', sans-serif;
-    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
     line-height: 1.6;
-    min-width: 320px;
+    min-width: 300px;
     height: 100%;
     position: relative;
+	
+	
 }
 
 .wrapper {
@@ -230,7 +232,7 @@ a:visited {
     }
 }
 
-@media (max-width: 699px) {
+@media (max-width : 962px ){
   .overlay-holder {
       grid-column: span 12;
     }
@@ -288,7 +290,7 @@ a:visited {
 
 }
 
-@media (max-width: 699px) {
+@media (max-width : 962px ){
 
   .aside-holder .box .half {
     width: calc(50% - 1em);
