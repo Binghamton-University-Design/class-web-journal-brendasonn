@@ -1,7 +1,7 @@
 /* vars */
 :root {
   --background-color: #ffffff;
-  --link-color: #EB6E3D;
+  --link-color: #E2E3E3;
   --alt-link-color: #111;
   --body-color: #111111;
   --light-grey: #A9AAAA;
@@ -18,10 +18,8 @@ body {
     text-align: left;
     margin: 0;
     color: var(--body-color);
-    font-family: 'Helvetica', 'Arial', sans-serif;
-    color: #444444;
-    font-size: 9pt;
-    background-color: #FAFAFA;
+    font-family: 'Helvetica-Neue', sans-serif;
+    font-size: 12px;
     line-height: 1.6;
     min-width: 320px;
     height: 100%;
