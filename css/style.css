@@ -90,7 +90,6 @@ h4 {
 
 #masthead h4 a {
     color: var(--link-color);
-    background-color: var(--body-color);
 }
 
 #masthead h4 a:hover {
