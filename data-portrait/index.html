@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>ARTS 486 :: Transcoding Data</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.js"></script>
+    <script src="js/survey.js"></script>
+    <link rel="stylesheet" href="css/survey.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700&display=swap" rel="stylesheet"> 
+  </head>
+  <body>
+
+    <div class="wrapper">
+      <div id="portrait-holder">
+        <div id="portrait-info">
+        <h1>My Data Portraits</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p><a id="key-btn" href="#">View Key</a></p>
+        </div>
+        <div id="portrait">
+          <div id="sketch-over">
+            <a id="close" href="#"><img src="images/close.svg"></a>
+            key goes here (use a 500x500 image)
+          </div>
+          <div id="sketch"></div>
+          <div class="dotstyle dotstyle-fillup">
+            <ul id="nav">
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      $( "#key-btn, #close" ).click(function() {
+        $( "#sketch-over" ).toggleClass( "active" );
+        return false;
+      });
+    </script>
+
+  </body>
+</html>

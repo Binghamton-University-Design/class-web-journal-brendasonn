@@ -89,11 +89,12 @@ h4 {
 }
 
 #masthead h4 a {
-    color: var(--link-color);
+    color: var(--body-color);
+    background-color: transparent;
 }
 
 #masthead h4 a:hover {
-    color: var(--link-color) !important;
+    color: var(--body-color) !important;
 }
 
 #aside h2 {

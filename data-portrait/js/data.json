@@ -1,0 +1,169 @@
+{
+"key" :
+  { 
+    "Do you like video games?": {
+      "x" : 0,
+      "y" : 0,
+      "Heck yeah!" : "Data Portraits_1 - Yes.png",
+      "No" : "Data Portraits_1 - No.png",
+      "Eh... maybe." : "Data Portraits_1 - Maybe.png",
+      "is_text" : false
+    },
+    "How often do you play video games?": {
+      "x" : 0,
+      "y" : 0,
+      "Always!" : "Data Portraits_2 - Always.png",
+      "Often" : "Data Portraits_2 - Often.png",
+      "Sometimes" : "Data Portraits_2 - Sometimes.png",
+      "Rarely" : "Data Portraits_2 - Rarely.png",
+      "Never" : "Data Portraits_2 - Never.png",
+      "is_text" : false
+    },
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": {
+      "x" : 0,
+      "y" : 0,
+      "My Nintendo Switch" : "Data Portraits_3 - Switch.png",
+      "Nintendo Switch" : "Data Portraits_3 - Switch.png",
+      "PC" : "Data Portraits_3 - PC.png",
+      "PC!!!" : "Data Portraits_3 - PC.png",
+      "gameboy advance" : "Data Portraits_3 - GBA.png",
+      "iPhone" : "Data Portraits_3 - Phone.png",
+      "nintendo ds" : "Data Portraits_3 - DS.png",
+      "smartphone" : "Data Portraits_3 - Phone.png",
+      "is_text" : false
+    },
+    "What is your favorite video game to play?": {
+      "x" : 0,
+      "y" : 0,
+      "anything Pokemon!" : "Data Portraits_4 - Pokemon.png",
+      "Overwatch" : "Data Portraits_4 - Overwatch.png",
+      "candy crush" : "Data Portraits_4 - Candy Crush.png",
+      "pubg maybe?" : "Data Portraits_4 - PUBG.png",
+      "Animal Crossing: New Horizons" : "Data Portraits_4 - Animal Crossing.png",
+      "Stardew Valley" : "Data Portraits_4 - Stardew Valley.png",
+      "MINECRAFT" : "Data Portraits_4 - Minecraft.png",
+      "Pokemon Shield" : "Data Portraits_4 - Pokemon.png",
+      "Animal Crossing" : "Data Portraits_4 - Animal Crossing.png",
+      "nintendogs!" : "Data Portraits_4 - Nintendogs.png",
+      "PUBG!" : "Data Portraits_4 - PUBG.png",
+      "The Legend of Zelda: Breath of the Wild" : "Data Portraits_4 - Stardew Valley.png",
+      "Pokemon Emerald" : "Data Portraits_4 - Pokemon.png",
+      "is_text" : false
+    },
+    "When do you usually play video games?": {
+      "x" : 0,
+      "y" : 0,
+      "Morning" : "Data Portraits_5 - Morning.png",
+      "Afternoon" : "Data Portraits_5 - Afternoon.png",
+      "Early evening" : "Data Portraits_5 - Early Evening.png",
+      "Night" : "Data Portraits_5 - Night.png",
+    }
+  },
+"data" : 
+  [
+  {
+    "Timestamp": "4/28/2020 11:10:35",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Always!",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "Nintendo Switch",
+    "What is your favorite video game to play?": "anything Pokemon!",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "4/28/2020 11:19:03",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Sometimes",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "PC",
+    "What is your favorite video game to play?": "Overwatch",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "4/28/2020 14:11:22",
+    "Do you like video games?": "Eh... maybe.",
+    "How often do you play video games?": "Rarely",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "smartphone",
+    "What is your favorite video game to play?": "candy crush",
+    "When do you usually play video games?": "Afternoon"
+  },
+  {
+    "Timestamp": "4/29/2020 14:16:42",
+    "Do you like video games?": "No",
+    "How often do you play video games?": "Never.",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "smartphone",
+    "What is your favorite video game to play?": "pubg maybe?",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "4/29/2020 9:17:03",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Always!",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "Nintendo Switch",
+    "What is your favorite video game to play?": "Animal Crossing: New Horizons",
+    "When do you usually play video games?": "Morning"
+  },
+  {
+    "Timestamp": "4/29/2020 15:17:55",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Often",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "PC",
+    "What is your favorite video game to play?": "Stardew Valley",
+    "When do you usually play video games?": "Afternoon"
+  },
+  {
+    "Timestamp": "4/29/2020 19:18:21",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Always!",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "PC!!!",
+    "What is your favorite video game to play?": "MINECRAFT",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "4/30/2020 20:00:51",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Always!",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "Nintendo Switch",
+    "What is your favorite video game to play?": "Pokemon Shield",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "4/30/2020 20:03:04",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Often",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "Nintendo Switch",
+    "What is your favorite video game to play?": "Animal Crossing",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "4/30/2020 20:03:52",
+    "Do you like video games?": "Eh... maybe.",
+    "How often do you play video games?": "Rarely",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "nintendo ds",
+    "What is your favorite video game to play?": "nintendogs!",
+    "When do you usually play video games?": "Afternoon"
+  },
+  {
+    "Timestamp": "4/30/2020 22:20:24",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Sometimes",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "iPhone",
+    "What is your favorite video game to play?": "PUBG!",
+    "When do you usually play video games?": "Early evening"
+  },
+  {
+    "Timestamp": "4/30/2020 22:40:54",
+    "Do you like video games?": "Heck yeah!",
+    "How often do you play video games?": "Always!",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "My Nintendo Switch",
+    "What is your favorite video game to play?": "The Legend of Zelda: Breath of the Wild",
+    "When do you usually play video games?": "Night"
+  },
+  {
+    "Timestamp": "5/2/2020 17:21:42",
+    "Do you like video games?": "Eh... maybe.",
+    "How often do you play video games?": "Rarely",
+    "What is the electronic that you play(ed) the most video games on? (e.g. Nintendo Switch, PC, smartphone, Gameboy Advance, etc)": "gameboy advance",
+    "What is your favorite video game to play?": "Pokemon Emerald",
+    "When do you usually play video games?": "Early evening"
+  }
+]
+}
